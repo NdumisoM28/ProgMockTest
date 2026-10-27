@@ -1,3 +1,5 @@
+package com.mycompany.ticketsales;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
@@ -6,7 +8,7 @@
  * Calculates statistics for a 2D array of ticket sales.
  * Rows = years, columns = seasons.
  */
-public class TicketSales implements ITicketSales {
+public class Ticketsales implements ITicketSales {
 
     /** Adds up every value in the 2D array. */
     @Override
