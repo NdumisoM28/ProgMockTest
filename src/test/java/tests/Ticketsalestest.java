@@ -11,7 +11,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 /** Q.1.3 - Unit tests for the TicketSales class. */
-public class TicketSalesTest {
+public class Ticketsalestest {
 
     private TicketSales ticketSalesCalc;
     private int[][] data;
